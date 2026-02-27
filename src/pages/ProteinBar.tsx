@@ -129,7 +129,7 @@ const sections: Section[] = [
         description: 'Aumenta la producción de ATP para una salida de potencia explosiva durante levantamientos pesados.',
         tags: ['FUERZA'],
         stats: [],
-        image: '/public/creatine.webp'
+        image: '/creatine.webp'
       },
       {
         id: 'p8',
@@ -138,7 +138,7 @@ const sections: Section[] = [
         description: 'Previene el catabolismo muscular durante sesiones largas de cardio o HIIT.',
         tags: ['RESISTENCIA'],
         stats: [],
-        image: '/public/bcaa.webp'
+        image: '/bcaa.webp'
       },
       {
         id: 'p9',
@@ -147,7 +147,7 @@ const sections: Section[] = [
         description: 'Mejora la conexión mente-músculo y la claridad mental sin nerviosismo.',
         tags: ['ENFOQUE'],
         stats: [],
-        image: '/public/stack.webp'
+        image: '/stack.webp'
       },
       {
         id: 'p10',
@@ -156,7 +156,7 @@ const sections: Section[] = [
         description: 'Aumenta la producción de óxido nítrico para mejorar el flujo sanguíneo y la vascularidad.',
         tags: ['BOMBEO'],
         stats: [],
-        image: '/public/citrulina.webp'
+        image: '/citrulina.webp'
       }
     ]
   }
